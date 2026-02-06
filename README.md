@@ -117,7 +117,7 @@ We will try to keep telecons to a minimum. The representative of each
 group agrees to participate in all of them. Occasionally, they may appoint a
 substitute. Only the representative of each group joins the telecons (or
 a substitute), as keeping the group small will improve our efficiency.
-This also ensures that all groups are given the same information. 
+This also ensures that all groups are given the same space. 
 
 
 ### AthenaK
